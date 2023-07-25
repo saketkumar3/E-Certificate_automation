@@ -8,4 +8,5 @@ Turn off access to less secure apps in your gmail to allow the python program to
 ![pics](https://github.com/saketkumar3/E-Certificate_automation/assets/72156254/a01e3681-2276-4c28-8c64-23075ec95dc5)
 
 #Intial Template
-![Uploading Certis_fsrc_spirit.jpg…]()
+![Certis_fsrc_spirit](https://github.com/saketkumar3/E-Certificate_automation/assets/72156254/56a2fa20-e608-4208-8cec-6ccce5f1d203)
+
